@@ -1,4 +1,4 @@
-# RainmeterRpi4bApi
+# rpi_ps_api
 
 **TODO: Add description**
 
@@ -18,5 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/rainmeter_rpi4b_api](https://hexdocs.pm/rainmeter_rpi4b_api).
-
-# rpi_ps_api
